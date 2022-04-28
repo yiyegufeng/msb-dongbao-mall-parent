@@ -1,0 +1,6 @@
+# Project exclude paths
+/msb-dongbao-api/msb-dongbao-ums-api/target/
+/msb-dongbao-application/msb-dongbao-portal-web/target/
+/msb-dongbao-generator/target/
+/msb-dongbao-service/msb-dongbao-ums/target/
+/out/
